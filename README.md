@@ -1,2 +1,3 @@
-# PUT-Schooter
-Assignment for Low-level Programming course
+# plusyujemne
+
+Simple arcade game
